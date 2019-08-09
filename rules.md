@@ -1,4 +1,4 @@
-﻿﻿# Hackathon Rules
+# Hackathon Rules
 
 These are standard competition rules used at CFT Hacks. If you have a suggestion for these rules or a question about them, please email us at [cfthacks@cofounderstown.com](mailto:cfthacks@cofounderstown.com).
 
@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is a maximum team size of 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+1. There is a maximum team size of 3 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
 2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position at the event.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others.
@@ -35,22 +35,23 @@ Teams will be judged on these four criteria. Judges will weigh the criteria acco
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted?
 - __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.
 
-TOP 5 teams would be selected on the basis of the above mentioned criteria. All the teams are required to make their submission before 11:00 AM on 11 August, 2019. Along with the code, all the teams are required to submit a 6-10 slides pitch deck (presentation) which should include the following things:
+TOP 5 teams would be selected on the basis of the above mentioned criteria.
+All the teams are required to make their submission before 11:00 AM on 11 August, 2019. Along with the code, all the teams are required to submit a 6-10 slides pitch deck (presentation) which should include the following things:
 
-    Problem Statement
-    The Idea
-    Vision
-    Market Research
-    Revenue Model
-    Competition Analysis
+- Problem Statement
+- The Idea
+- Vision
+- Market Research
+- Revenue Model
+- Competition Analysis
 
-In the final round, the top 5 teams would deliver a 5-7 minute presentation to our judges who would then evaulate it on the basis of:
+ In the final round, the top 5 teams would deliver a 5-7 minute presentation to our judges who would then evaulate it on the basis of:
 
-    How well you pitch. CFT Hacks being India's first Entrepreneurial Hackathon, we would like to see if you could raise some      funds(cheers) from the audience.
-    How good the idea is!
-    How well the product solves a problem!
-    The market research behind the product!
-    The Revenue model!
+- How well you pitch. CFT Hacks being India's first Entrepreneurial Hackathon, we would like to see if you could raise some funds(cheers) from the audience.
+- How good the idea is!
+- How well the product solves a problem!
+- The market research behind the product!
+- The Revenue model!
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
@@ -65,4 +66,4 @@ So don't worry about coming up with the next big idea or building the next Googl
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the CFT Hacks Team!
+__Happy Hacking from the CFT Hacks Team!__
