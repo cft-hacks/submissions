@@ -34,9 +34,23 @@ Teams will be judged on these four criteria. Judges will weigh the criteria acco
 - __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted?
 - __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.
-- How well you pitch. CFT Hacks being India's first Entrepreneurial Hackathon, we would like to see if you could raise some funds(cheers) from the audience.
-- How good the idea is!
-- How well the project solves a problem!
+
+TOP 5 teams would be selected on the basis of the above mentioned criteria. All the teams are required to make their submission before 11:00 AM on 11 August, 2019. Along with the code, all the teams are required to submit a 6-10 slides pitch deck (presentation) which should include the following things:
+
+    Problem Statement
+    The Idea
+    Vision
+    Market Research
+    Revenue Model
+    Competition Analysis
+
+In the final round, the top 5 teams would deliver a 5-7 minute presentation to our judges who would then evaulate it on the basis of:
+
+    How well you pitch. CFT Hacks being India's first Entrepreneurial Hackathon, we would like to see if you could raise some      funds(cheers) from the audience.
+    How good the idea is!
+    How well the product solves a problem!
+    The market research behind the product!
+    The Revenue model!
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
