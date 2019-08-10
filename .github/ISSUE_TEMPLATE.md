@@ -25,3 +25,4 @@ _(Optional)_
 - [ ] You have followed the issue title format.
 - [ ] You have mentioned the correct labels.
 - [ ] You have provided all the information correctly.
+- [ ] You have uploaded the pitch deck to the given Google Drive
