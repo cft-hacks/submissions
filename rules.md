@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is a maximum team size of 3 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+1. There is a maximum team size of 5 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
 2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position at the event.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others.
@@ -39,11 +39,9 @@ TOP 5 teams would be selected on the basis of the above mentioned criteria.
 All the teams are required to make their submission before 11:00 AM on 11 August, 2019. Along with the code, all the teams are required to submit a 6-10 slides pitch deck (presentation) which should include the following things:
 
 - Problem Statement
-- The Idea
-- Vision
+- Your Idea/vision
 - Market Research
 - Revenue Model
-- Competition Analysis
 
  In the final round, the top 5 teams would deliver a 5-7 minute presentation to our judges who would then evaulate it on the basis of:
 
